@@ -8,6 +8,9 @@ The apps.py file contains a list of commands that are currently supported.
 
 # Dependencies:
 wikipedia
+
 PyQt5
+
 pyAudio
+
 SpeechRecognition
